@@ -1,0 +1,5 @@
+# venv directories
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
