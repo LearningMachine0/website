@@ -1,5 +1,7 @@
-# venv directories
-Include/
-Lib/
-Scripts/
+# venv files and directories
+include/
+lib/
+lib64
+bin/
+share/
 pyvenv.cfg
